@@ -1,0 +1,10 @@
+
+print("Emojies using Python")
+print("\U0001f600")
+print("\U0001f601")
+print("\U0001f602")
+print("\U0001f603")
+print("\U0001f604")
+print("\U0001f605")
+print("\U0001f606")
+print("\U0001f609")
